@@ -1,0 +1,5 @@
+com\bidyut\TodoDemo\TodoItem.class
+com\bidyut\TodoDemo\TodoDemoApplication.class
+com\bidyut\TodoDemo\TodoDemoController.class
+com\bidyut\TodoDemo\TodoItemRepository.class
+com\bidyut\TodoDemo\TodoListViewModel.class
